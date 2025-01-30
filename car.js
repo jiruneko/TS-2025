@@ -1,2 +1,1 @@
-class Car {
-}
+"use strict";

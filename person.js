@@ -1,1 +1,1 @@
-console.log(person);
+"use strict";
